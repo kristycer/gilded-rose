@@ -39,7 +39,7 @@ $ git clone https://github.com/kristycer/gilded-rose.git
 $ cd gilded-rose
 $ bundle
 $ irb
-> require ‘.lib_rose.rb’  
+> require ‘.lib_gilded_rose.rb’  
 
 ```
 
